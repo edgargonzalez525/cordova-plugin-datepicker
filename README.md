@@ -5,6 +5,8 @@ This is a combined version of DatePicker iOS and Android and Windows plugin for 
 
 - Original Android version: https://github.com/bikasv/cordova-android-plugins/tree/master/datepicker
 
+- Original Combined version: https://github.com/invi/cordova-plugin-datepicker
+
 New in 0.8.0 (Android Only):
 - Android code refactored
 
@@ -24,13 +26,13 @@ New in 0.8.0 (Android Only):
 - Local development workflow using [Cordova CLI](http://cordova.apache.org/docs/en/edge/)
 
 ```bash
-cordova plugin add cordova-plugin-datepicker
+cordova plugin add https://github.com/edgargonzalez525/cordova-plugin-datepicker
 ```
 
 - Local development workflow using [PhoneGap CLI](http://phonegap.com/install/)
 
 ```bash
-phonegap local plugin add cordova-plugin-datepicker
+phonegap local plugin add https://github.com/edgargonzalez525/cordova-plugin-datepicker
 ```
 
 - Cloud-based development workflow using [PhoneGap Build](http://build.phonegap.com)
